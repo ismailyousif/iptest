@@ -1,0 +1,26 @@
+﻿#EXTM3U
+
+#EXTINF:1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="BABYLON TV"  group-title="Entertinment",BABYLON TV
+http://163.172.39.215:25461/line/C4@!a3a1@!w72A/28
+
+#EXTINF:2, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="KURDMAX KURMANCI"  group-title="Entertinment",KURDMAX KURMANCI
+http://163.172.39.215:25461/line/C4@!a3a1@!w72A/30
+
+#EXTINF:3, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="KURDMAX SORANI"  group-title="Entertinment",KURDMAX SORANI
+http://163.172.39.215:25461/line/C4@!a3a1@!w72A/31
+
+#EXTINF:4, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="RUDAW"  group-title="News",RUDAW
+http://163.172.39.215:25461/line/C4@!a3a1@!w72A/34
+
+#EXTINF:5, tvg-id="" tvg-logo="" tvg-name="K 24"  group-title="News",K 24
+http://163.172.39.215:25461/line/C4@!a3a1@!w72A/40
+
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name="A TV"  group-title="Entertinment",A TV
+http://163.172.39.215:25461/line/C4@!a3a1@!w72A/44
+
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name="WAAR TV"  group-title="Entertinment",WAAR TV
+http://163.172.39.215:25461/line/C4@!a3a1@!w72A/52
+
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="New Channel"  group-title="New Group",New Channel
+http://123.456.789
+
